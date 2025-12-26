@@ -65,3 +65,4 @@ echo "1. Terminal 1: ollama serve"
 echo "2. Terminal 2: cd ~/art_gallery_ubuntu/backend && ./start_services.sh"
 echo "3. Open browser: http://localhost:5000"
 echo "4. Open Unity project and connect"
+
